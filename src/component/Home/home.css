@@ -1,0 +1,15 @@
+.home-photo img{
+    width: 18%;
+    
+}
+.home{
+    background-color: #1abc9c;
+}
+.left-home-line , .right-home-line{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
+.home-comp{
+    margin-top: 40px;
+}

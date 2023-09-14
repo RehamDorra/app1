@@ -1,0 +1,12 @@
+.left-contact-line , .right-contact-line{
+    width: 80px;
+    height: 4px;
+    background-color: black;
+}
+.contact-comp{
+    margin-top: 160px;
+}
+.form-control:focus{
+    box-shadow: none;
+    border-color: white;
+}
